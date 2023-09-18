@@ -6,7 +6,7 @@
 ## ScreenShot
 
 <div align = "center">
-<img src="Screenshot_1695060030.png" width="350" />
+<img src="assets/Screenshot_1695060030.png" width="350" />
 
 
 This project is a starting point for a Flutter application.
